@@ -132,7 +132,9 @@ Esto permitió mantener la continuidad del trabajo sin afectar el progreso.
 - Identificación de funcionalidades  
 - Definición de usuarios  
 - Desarrollo del flujo del sistema  
-- Elaboración del documento final  
+- Elaboración del documento final
+- Problemas
+- Funcionalidades
 
 ---
 
